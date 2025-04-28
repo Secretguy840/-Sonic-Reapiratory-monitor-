@@ -1,0 +1,10 @@
+10-1: Starting respiratory assessment
+10-2: Normal breathing detected
+10-3: Rapid breathing (tachypnea)
+10-4: Slow breathing (bradypnea)
+10-5: Irregular breathing pattern
+10-6: Respiratory distress detected
+10-7: Apnea (breathing pause) detected
+10-8: Wheezing detected
+10-9: Emergency - respiratory failure
+10-10: Assessment complete - all clear
